@@ -1,0 +1,13 @@
+nav {
+  display: flex; /* this makes the items inside the nav container appear in a row */
+}
+
+nav ul {
+  list-style: none; /* this removes the bullet points from the list items */
+  margin: 0; /* this removes the default margin from the list */
+  padding: 0; /* this removes the default padding from the list */
+}
+
+nav li {
+  margin-right: 10px; /* this adds a 10px space between each list item */
+}

@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_id": 1,
+                "objectid": 1,
+                "project_name": "Don Russell Memorial Park Playground Improvements",
+                "address": "290 Birmingham Street ",
+                "status": "In progress",
+                "description": "The City is improving the playground at Don Russell Memorial Park. Learn more about the project and how you can get involved.",
+                "image": "https://www.toronto.ca/wp-content/uploads/2021/07/9038-don-russell-memorial-park-playground-improvements-banner.jpg",
+                "project_url": "https://www.toronto.ca/city-government/planning-development/construction-new-facilities/improvements-expansion-redevelopment/don-russell-memorial-park-playground-improvements/",
+                "project_type": "Playground Improvements",
+                "image_alt_text": "A photograph of Don Russell Memorial Park playground on a sunny day. The small playground is surrounded by grass and sparse trees with a water tower in the distance. The playground includes",
+                "takedown_date": "None",
+                "ward_name": "Etobicoke-Lakeshore",
+                "ward_number": 3,
+                "globalid": "ab1493ca-962f-4533-8b6f-469b45e14cfd"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5205738998375,
+                    43.6006805200397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_id": 2,
+                "objectid": 2,
+                "project_name": "Lake blvd Playground Improvements",
+                "address": "290 Birmingham Street ",
+                "status": "In progress",
+                "description": "The City is improving the playground at Don Russell Memorial Park. Learn more about the project and how you can get involved.",
+                "image": "https://www.toronto.ca/wp-content/uploads/2021/07/9038-don-russell-memorial-park-playground-improvements-banner.jpg",
+                "project_url": "https://www.toronto.ca/city-government/planning-development/construction-new-facilities/improvements-expansion-redevelopment/don-russell-memorial-park-playground-improvements/",
+                "project_type": "Playground Improvements",
+                "image_alt_text": "A photograph of Don Russell Memorial Park playground on a sunny day. The small playground is surrounded by grass and sparse trees with a water tower in the distance. The playground includes",
+                "takedown_date": "None",
+                "ward_name": "Etobicoke-Lakeshore",
+                "ward_number": 3,
+                "globalid": "ab1493ca-962f-4533-8b6f-469b45e14cfd"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.36788498731435,
+                            43.64466824697081
+                        ],
+                        [
+                            -79.36788498731435,
+                            43.64447658327862
+                        ],
+                        [
+                            -79.36759742250301,
+                            43.64447658327862
+                        ],
+                        [
+                            -79.36759742250301,
+                            43.64466824697081
+                        ],
+                        [
+                            -79.36788498731435,
+                            43.64466824697081
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "_id": 3,
+            "objectid": 3,
+            "project_name": "Lake blvd Playground Improvements",
+            "address": "290 Birmingham Street ",
+            "status": "In progress",
+            "description": "The City is improving the playground at Don Russell Memorial Park. Learn more about the project and how you can get involved.",
+            "image": "https://www.toronto.ca/wp-content/uploads/2021/07/9038-don-russell-memorial-park-playground-improvements-banner.jpg",
+            "project_url": "https://www.toronto.ca/city-government/planning-development/construction-new-facilities/improvements-expansion-redevelopment/don-russell-memorial-park-playground-improvements/",
+            "project_type": "Playground Improvements",
+            "image_alt_text": "A photograph of Don Russell Memorial Park playground on a sunny day. The small playground is surrounded by grass and sparse trees with a water tower in the distance. The playground includes",
+            "takedown_date": "None",
+            "ward_name": "Etobicoke-Lakeshore",
+            "ward_number": 3,
+            "globalid": "ab1493ca-962f-4533-8b6f-469b45e14cfd"},
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.36882628208626,
+                        43.64393367687916
+                    ],
+                    [
+                        -79.36782997110275,
+                        43.644273497740556
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_id": 4,
+            "objectid": 4,
+            "project_name": "Lake blvd Playground Improvements",
+            "address": "290 Birmingham Street ",
+            "status": "In progress",
+            "description": "The City is improving the playground at Don Russell Memorial Park. Learn more about the project and how you can get involved.",
+            "image": "https://www.toronto.ca/wp-content/uploads/2021/07/9038-don-russell-memorial-park-playground-improvements-banner.jpg",
+            "project_url": "https://www.toronto.ca/city-government/planning-development/construction-new-facilities/improvements-expansion-redevelopment/don-russell-memorial-park-playground-improvements/",
+            "project_type": "Playground Improvements",
+            "image_alt_text": "A photograph of Don Russell Memorial Park playground on a sunny day. The small playground is surrounded by grass and sparse trees with a water tower in the distance. The playground includes",
+            "takedown_date": "None",
+            "ward_name": "Etobicoke-Lakeshore",
+            "ward_number": 3,
+            "globalid": "ab1493ca-962f-4533-8b6f-469b45e14cfd",
+            "marker-color": "#24f5d2",
+            "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.36890074309773,
+                    43.644119363917696
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
